@@ -1,0 +1,53 @@
+= Rechnungswesen Referate
+
+
+[cols="1,1,1"]
+|===
+|Referats Thema | Gruppe | Datum
+
+| EKR, Allgemeines
+|
+|
+
+| EKR, Umsatzsteuer, Rabatt, Skonto
+| Ignjagtovic, Spasenovic
+| 28.01.2022
+
+| Afa
+|
+|
+
+| Rechnungsabgrenzung
+|
+|
+
+|  Kostenrechnung (allgemein)
+|
+|
+
+| BAB
+|
+|
+
+| Teilkostenrechnung
+|
+|
+
+| Kostenrechnung
+|
+|
+
+| Bilanzanalyse
+|
+|
+
+| Abschreibungen UV
+|
+|
+
+| BÜB
+|
+|
+
+
+|===
