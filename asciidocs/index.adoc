@@ -1,12 +1,20 @@
-= Rechnungswesen Referate
+= Rechnungswesen Referate "Zusammenfassungen"
 
+*Seite immer neu laden um auf den neusten Stand zu sein :)*
+
+== Was muss gemacht werden?
+
+Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren-
+
+
+== Teams
 
 [cols="1,1,1"]
 |===
 |Referats Thema | Gruppe | Datum
 
 | EKR, Allgemeines
-|
+| Kronreif, Polleichtner, Rieser
 |
 
 | EKR, Umsatzsteuer, Rabatt, Skonto
@@ -18,36 +26,36 @@
 | 11.02.2022
 
 | Rechnungsabgrenzung
-|
-|
+| Spisak, Özdogan
+| 17.03.2022
 
 | Kostenrechnung (allgemein)
-| Gahleitner , Ecker
+| Gahleitner, Ecker
 | 18.02.2022
 
 | BAB
-|
+| Eichhorn, Wallinger
 |
 
 | Teilkostenrechnung
-|
-|
+| Kaufmann, Hain, Hosic
+| 18.03.2022
 
 | Kostenrechnung
-| Sljivic
+| Sljivic, Bal
 | 11.03.2022
 
 | Bilanzanalyse
-|
-|
+| Tischler, Trinkl
+| 01.04.2022
 
 | Abschreibungen UV
 | Birklbauer, Bojer
 | 04.03.2022
 
 | BÜB
-|
-|
+| Herzog
+| 25.03.2022
 
 
 |===
