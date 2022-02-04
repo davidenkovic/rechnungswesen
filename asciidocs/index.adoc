@@ -1,10 +1,10 @@
 = Rechnungswesen Referate "Zusammenfassungen"
 
-*Seite immer neu laden um auf den neusten Stand zu sein :)*
+*Seite immer neu laden, um auf den neusten Stand zu sein :)*
 
 == Was muss gemacht werden?
 
-Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren-
+Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren.
 
 
 == Teams
@@ -14,8 +14,8 @@ Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren-
 |Referats Thema | Gruppe | Datum
 
 | EKR, Allgemeines
-| Kronreif, Polleichtner, Rieser
-|
+| Kronreif, Polleichtner
+| 04.02.2022
 
 | EKR, Umsatzsteuer, Rabatt, Skonto
 | Ignjagtovic, Spasenovic
@@ -26,7 +26,7 @@ Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren-
 | 11.02.2022
 
 | Rechnungsabgrenzung
-| Spisak, Özdogan
+| Spisak, Özdogan, Rieser
 | 17.03.2022
 
 | Kostenrechnung (allgemein)
@@ -35,7 +35,7 @@ Jede Gruppe muss eine Zusammenfassung schreiben und diese dann Präsentieren-
 
 | BAB
 | Eichhorn, Wallinger
-|
+| 18.02.2022
 
 | Teilkostenrechnung
 | Kaufmann, Hain, Hosic
